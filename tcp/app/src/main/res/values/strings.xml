@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tcp</string>
+    <string name="msg_from_server">msg from server</string>
+    <string name="port">port</string>
+    <string name="connect">Connect</string>
+    <string name="ip">ip</string>
+    <string name="client">Client</string>
+</resources>
